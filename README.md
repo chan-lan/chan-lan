@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chan-lan
+- 👀 I’m interested in making game development and math videos
+- 🌱 I’m currently learning manimgl 
